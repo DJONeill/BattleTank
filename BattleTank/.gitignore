@@ -4,6 +4,10 @@
 # Visual Studio 2015 database file
 *.VC.db
 
+# Game_Asset_Content
+*/BattleTank/Content/StarterContent/
+
+
 # Compiled Object files
 *.slo
 *.lo
