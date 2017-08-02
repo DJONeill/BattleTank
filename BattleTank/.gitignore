@@ -5,7 +5,9 @@
 *.VC.db
 
 # Game_Asset_Content
-*/BattleTank/Content/StarterContent/
+*.uasset
+
+
 
 
 # Compiled Object files
@@ -77,3 +79,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Game_Asset_Content
+StarterContent/*
